@@ -22,6 +22,7 @@ public void palindromeNumber() {
 }
 public static void main(String[] args) {
 	Palindrome k=new Palindrome();
+	System.out.println("This Is A Palindrome Probelm");
 	k.palindromeNumber();
 }
 }
